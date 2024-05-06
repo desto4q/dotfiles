@@ -1,0 +1,8 @@
+* {
+	background-color: red;
+	transition: 4.6s;
+}
+
+.workspaces > * {
+	width: 10rem;
+}
